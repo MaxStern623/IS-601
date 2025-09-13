@@ -15,5 +15,7 @@ Git Commands
 - git commit -m "commit message" = commits all staged files to git
 - git checkout <branch> = switch to a branch and update the working directory
 - git merge a = merges branch a into another branch
-- git revert <commit_id> = creates a new commit, revertng the changes from a specific commit
+- git revert <commit_id> = creates a new commit, reverting the changes from a specific commit
 - git status = list new or modified files not yet committed
+- git diff = show changes to unstages files
+- git push <alias> <branch> = upload local content to remote repo and to a specific branch
