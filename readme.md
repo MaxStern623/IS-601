@@ -16,3 +16,4 @@ Git Commands
 - git checkout <branch> = switch to a branch and update the working directory
 - git merge a = merges branch a into another branch
 - git revert <commit_id> = creates a new commit, revertng the changes from a specific commit
+- git status = list new or modified files not yet committed
