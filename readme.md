@@ -14,3 +14,4 @@ Git Commands
 - git add . or git all <file name> = adds specific or all files to staging
 - git commit -m "commit message" = commits all staged files to git
 - git checkout <branch> = switch to a branch and update the working directory
+- git merge a = merges branch a into another branch
